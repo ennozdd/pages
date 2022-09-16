@@ -21,7 +21,7 @@
 title: Detection rules
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Only Carbon Black Enterprise Response rules are supported
+    "Supported platforms: Carbon Black Enterprise Response, Cortex XDR, Microsoft 365 Defender "
 url: https://ennozdd.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 adeo_name: Adeo Cyber Security Services
