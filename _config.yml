@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     This is the description
 url: https://ennozdd.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
+adeo_name: Adeo Cyber Security Services
+adeo_url: https://adeo.com.tr
 twitter_username: jekyllrb
 github_username:  jekyll
 
