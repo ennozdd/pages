@@ -1,4 +1,4 @@
-# pages
+# Detection Rules
 
 |Host                        |Rule                                                                |OS     | Severity  |
 |---                         |---|---|---|
