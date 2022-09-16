@@ -5,7 +5,7 @@
 layout: default
 ---
 
-|Host                        |Rule                                                                |OS     | Severity  |
+|Name                        |Rule                                                                |OS     | Severity  |
 |---                         |---|---|---|
 |Ulterius RDP Tool Detection | process_name:daemonmanager.exe or digsig_publisher:"Andrew Sampson"|Windows| Critical  |
 |CVE-2020-10713 GRUB boothole detection| os_type:linux filemod:/boot/grub2/grub.cfg -cmdline:insights_client -cmdline:sosreport| Linux | Suspicious|
